@@ -18,6 +18,8 @@ public class Palindrome {
 		System.out.println("Palindrome");
 		else
 			System.out.println("Not palindrome");
+		System.out.println("Palindrome number not visible");
+		System.out.println("Hello palindrome");
 	}
 
 }
